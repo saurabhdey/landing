@@ -10,9 +10,8 @@ blog_theme: light # Or use dark
 
 # Profile information
 name: Saurabh Dey
-tagline: Lead Data Analyst/Engineer 
-about-description: Have worked with Jurassic era apps ,albeit briefly.Moved to data warehousing and now in data engineering more
-closer to analytics.
+tagline: Analytics Consultant/Engineer
+about-description: One traveler among many trying to reach the truth
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
